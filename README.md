@@ -6,6 +6,6 @@ This setup requires that you patch the [powerline glyphs](https://github.com/pow
 ## Installation
 
 ```
-clone git@github.com:edyrhaug/tmux-conf.git ~/.tmux
-ln ~/.tmux/tmux.conf ~/.tmux.conf
+git clone git@github.com:edyrhaug/tmux-conf.git ~/.tmux
+ln -s ~/.tmux/tmux.conf ~/.tmux.conf
 ```
