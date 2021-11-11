@@ -7,5 +7,6 @@ This setup requires that you patch the [powerline glyphs](https://github.com/pow
 
 ```
 git clone git@github.com:edyrhaug/tmux-conf.git ~/.tmux
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ln -s ~/.tmux/tmux.conf ~/.tmux.conf
 ```
